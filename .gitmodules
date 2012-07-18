@@ -1,0 +1,6 @@
+[submodule "pytest"]
+	path = pytest
+	url = git://github.com/vim-scripts/pytest.vim.git
+[submodule "cute-python"]
+	path = cute-python
+	url = git://github.com/ehamberg/vim-cute-python.git
